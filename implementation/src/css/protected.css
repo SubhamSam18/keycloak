@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+.btn-1{
+    margin: 0.5%;
+    margin-left: 0;
+    color: white;
+    background-color: #0273ec;
+    border: none;
+    border-radius: 5px;
+    transition: 0.4s ease-in-out;
+    width: 9%;
+    font-family: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.btn-1:hover{
+    color: black;
+    background-color: white;
+}
